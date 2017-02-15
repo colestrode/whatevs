@@ -1,0 +1,28 @@
+{
+  "name": "whatevs",
+  "version": "1.0.0",
+  "description": "a place to put stuff",
+  "main": "tools-api-cw.js",
+  "private": true,
+  "scripts": {
+    "test": "standard *.js --fix"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/colestrode/whatevs.git"
+  },
+  "author": "CFS",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/colestrode/whatevs/issues"
+  },
+  "homepage": "https://github.com/colestrode/whatevs#readme",
+  "dependencies": {
+    "qs": "^6.3.0",
+    "request": "^2.79.0",
+    "yargs": "^6.6.0"
+  },
+  "devDependencies": {
+    "standard": "^8.6.0"
+  }
+}
